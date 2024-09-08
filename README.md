@@ -8,8 +8,6 @@ Bu proje, React kullanılarak geliştirilmiş bir quiz uygulamasıdır. Kullanı
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ## Özellikler
 
